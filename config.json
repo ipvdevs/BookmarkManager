@@ -1,0 +1,7 @@
+{
+  "hostname": "test_hostname",
+  "port": 1234,
+  "bufferSize": 2048,
+  "isBufferDirect": false,
+  "isBlocking": false
+}
